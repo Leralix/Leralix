@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thibaud Leroux (Leralix)</h1>
-<h3 align="center">Data engineer & scientist</h3>
+<h3 align="center">Data engineer @ scientist</h3>
+
+- 🔭 I’m currently working on [Town and Nation](https://github.com/Leralix/Towns-and-Nations-Minecraft-plugin)
+
+- 📫 How to reach me **thibaud.leroux7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
