@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Town and Nation](https://github.com/Leralix/Towns-and-Nations-Minecraft-plugin)
 
-- 📫 How to reach me **thibaud.leroux7@gmail.com**
+- 📫 reach me on: **thibaud.leroux7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
