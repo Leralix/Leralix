@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leralix</h1>
 <h3 align="center">Data engineer @ scientist</h3>
 
-- 🔭 I’m currently working on [Town and Nation](https://github.com/Leralix/Towns-and-Nations-Minecraft-plugin)
+- 🔭 I’m currently working on [Town and Nation](https://github.com/Leralix/Towns-and-Nations-Minecraft-plugin) and [AlchemyCraft](https://github.com/Leralix/AlchemyCraft)
 
 - 📫 reach me at: **thibaud.leroux7@gmail.com**
 
