@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leralix</h1>
+<h1 align="center">Leralix</h1>
 <h3 align="center">Data engineer @ scientist</h3>
 
 - 🔭 I’m currently working on [Town and Nation](https://github.com/Leralix/Towns-and-Nations-Minecraft-plugin) and [AlchemyCraft](https://github.com/Leralix/AlchemyCraft)
